@@ -32,7 +32,7 @@ const facilities = [
 ];
 
 const stats = [
-  { value: '10+', label: 'Years of Excellence', icon: Award },
+  { value: '2022', label: 'Established', icon: Award },
   { value: '50+', label: 'Qualified Teachers', icon: Users },
   { value: '1000+', label: 'Happy Students', icon: GraduationCap },
   { value: '100%', label: 'Parent Trust', icon: Star },
