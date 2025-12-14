@@ -6,6 +6,7 @@ import {
   Palette, 
   Waves, 
   Theater, 
+  Flast,
   Trees, 
   BookOpen, 
   Laptop,
@@ -29,6 +30,7 @@ const facilities = [
   { icon: Trees, name: 'Green Campus', desc: 'Eco-friendly environment' },
   { icon: BookOpen, name: 'Library', desc: 'Extensive book collection' },
   { icon: Laptop, name: 'Computer Lab', desc: 'Modern IT infrastructure' },
+  { icon: Flast, name: 'Science Lab', desc: 'Practical Science Concepts' },
 ];
 
 const stats = [
